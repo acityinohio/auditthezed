@@ -1,12 +1,12 @@
 # Audit the Zed
 
-This small Go program audits the Zcash supply by using naive RPC calls. Effectively reconstructs the UTXO set in-memory in a map by iterating through every transaction in every block through `zcashd`, andkeeps track of each shielded pool based on entry and exit into transparent addresses.
+This small Go program audits the Zcash supply by using naive RPC calls. Effectively reconstructs the UTXO set in-memory in a map by iterating through every transaction in every block through `zcashd`, and keeps track of each shielded pool based on entry and exit into transparent addresses.
 
 ## Requirements
 
 You need Golang installed (tested on version 1.11.5), a fully synced `zcashd` node, `zcashd` to be in your `$PATH`, and the `txindex=1` option set in your `zcash.conf`
 
-Also note that it is _slow_ and _memory intensive_. This is an extremely naive implementation; based on my testing it may use up to ~8GB of free RAM to conduct the audit (in addition to what memory `zcashd` is using). YMMV.
+Also note that it is _slow_ and _memory intensive_. This is an extremely naive implementation; based on my testing it may use up to ~8GB of free RAM to conduct the audit (in addition to whatever memory `zcashd` is using). YMMV.
 
 ## Instructions
 

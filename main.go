@@ -106,7 +106,7 @@ func scanThePlanet(height int) (pubZats, sproutZats, saplingZats int64) {
 		Tx []TX
 	}
 	//brief test
-	for i := 420000; i <= height; i++ {
+	for i := 1; i <= height; i++ {
 		var currentBlock Block
 		//periodic pause for progress
 		if i%10000 == 0 {

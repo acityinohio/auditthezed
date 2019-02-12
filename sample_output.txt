@@ -1,0 +1,384 @@
+zcashd says current height is 479827, auditing to that height.
+At height 10000:
+Maximum Allowed Zatoshis: 3125312562500
+Public + Shielded: 3113242426967
+Public UTXO Zatoshis: 3089689326427
+Sprout Zatoshis: 23553100540
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 20000:
+Maximum Allowed Zatoshis: 12501250000000
+Public + Shielded: 12485006934974
+Public UTXO Zatoshis: 12419716255402
+Sprout Zatoshis: 65290679572
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 30000:
+Maximum Allowed Zatoshis: 25001250000000
+Public + Shielded: 24984885983459
+Public UTXO Zatoshis: 24847443207296
+Sprout Zatoshis: 137442776163
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 40000:
+Maximum Allowed Zatoshis: 37501250000000
+Public + Shielded: 37484844167782
+Public UTXO Zatoshis: 37202739418312
+Sprout Zatoshis: 282104749470
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 50000:
+Maximum Allowed Zatoshis: 50001250000000
+Public + Shielded: 49984844167884
+Public UTXO Zatoshis: 45927702387270
+Sprout Zatoshis: 4057141780614
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 60000:
+Maximum Allowed Zatoshis: 62501250000000
+Public + Shielded: 62484844168004
+Public UTXO Zatoshis: 60126283234874
+Sprout Zatoshis: 2358560933130
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 70000:
+Maximum Allowed Zatoshis: 75001250000000
+Public + Shielded: 74984844168110
+Public UTXO Zatoshis: 67038544764441
+Sprout Zatoshis: 7946299403669
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 80000:
+Maximum Allowed Zatoshis: 87501250000000
+Public + Shielded: 87484844158236
+Public UTXO Zatoshis: 81211787604805
+Sprout Zatoshis: 6273056553431
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 90000:
+Maximum Allowed Zatoshis: 100001250000000
+Public + Shielded: 99984844158207
+Public UTXO Zatoshis: 96719623363670
+Sprout Zatoshis: 3265220794537
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 100000:
+Maximum Allowed Zatoshis: 112501250000000
+Public + Shielded: 112484844158224
+Public UTXO Zatoshis: 108177290786968
+Sprout Zatoshis: 4307553371256
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 110000:
+Maximum Allowed Zatoshis: 125001250000000
+Public + Shielded: 124984844158215
+Public UTXO Zatoshis: 123289147210843
+Sprout Zatoshis: 1695696947372
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 120000:
+Maximum Allowed Zatoshis: 137501250000000
+Public + Shielded: 137484844158173
+Public UTXO Zatoshis: 134523941802432
+Sprout Zatoshis: 2960902355741
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 130000:
+Maximum Allowed Zatoshis: 150001250000000
+Public + Shielded: 149984844158126
+Public UTXO Zatoshis: 147231320139734
+Sprout Zatoshis: 2753524018392
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 140000:
+Maximum Allowed Zatoshis: 162501250000000
+Public + Shielded: 162484844158076
+Public UTXO Zatoshis: 156754593581994
+Sprout Zatoshis: 5730250576082
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 150000:
+Maximum Allowed Zatoshis: 175001250000000
+Public + Shielded: 174984844158051
+Public UTXO Zatoshis: 168769891835024
+Sprout Zatoshis: 6214952323027
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 160000:
+Maximum Allowed Zatoshis: 187501250000000
+Public + Shielded: 187484844158048
+Public UTXO Zatoshis: 179550537790259
+Sprout Zatoshis: 7934306367789
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 170000:
+Maximum Allowed Zatoshis: 200001250000000
+Public + Shielded: 199984844158183
+Public UTXO Zatoshis: 191769222587568
+Sprout Zatoshis: 8215621570615
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 180000:
+Maximum Allowed Zatoshis: 212501250000000
+Public + Shielded: 212484844158260
+Public UTXO Zatoshis: 202279459735106
+Sprout Zatoshis: 10205384423154
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 190000:
+Maximum Allowed Zatoshis: 225001250000000
+Public + Shielded: 224984844158290
+Public UTXO Zatoshis: 217290304234956
+Sprout Zatoshis: 7694539923334
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 200000:
+Maximum Allowed Zatoshis: 237501250000000
+Public + Shielded: 237484844158256
+Public UTXO Zatoshis: 226999903935336
+Sprout Zatoshis: 10484940222920
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 210000:
+Maximum Allowed Zatoshis: 250001250000000
+Public + Shielded: 249984844158137
+Public UTXO Zatoshis: 239764111627098
+Sprout Zatoshis: 10220732531039
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 220000:
+Maximum Allowed Zatoshis: 262501250000000
+Public + Shielded: 262484844157923
+Public UTXO Zatoshis: 251119120328763
+Sprout Zatoshis: 11365723829160
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 230000:
+Maximum Allowed Zatoshis: 275001250000000
+Public + Shielded: 274984844157803
+Public UTXO Zatoshis: 261572756264739
+Sprout Zatoshis: 13412087893064
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 240000:
+Maximum Allowed Zatoshis: 287501250000000
+Public + Shielded: 287484844157856
+Public UTXO Zatoshis: 275426492946817
+Sprout Zatoshis: 12058351211039
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 250000:
+Maximum Allowed Zatoshis: 300001250000000
+Public + Shielded: 299984844157728
+Public UTXO Zatoshis: 288373332428395
+Sprout Zatoshis: 11611511729333
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 260000:
+Maximum Allowed Zatoshis: 312501250000000
+Public + Shielded: 312484844157598
+Public UTXO Zatoshis: 298606719275154
+Sprout Zatoshis: 13878124882444
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 270000:
+Maximum Allowed Zatoshis: 325001250000000
+Public + Shielded: 324984844157495
+Public UTXO Zatoshis: 306248753838632
+Sprout Zatoshis: 18736090318863
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 280000:
+Maximum Allowed Zatoshis: 337501250000000
+Public + Shielded: 337484844157372
+Public UTXO Zatoshis: 315242509260041
+Sprout Zatoshis: 22242334897331
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 290000:
+Maximum Allowed Zatoshis: 350001250000000
+Public + Shielded: 349984844157273
+Public UTXO Zatoshis: 325554275778807
+Sprout Zatoshis: 24430568378466
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 300000:
+Maximum Allowed Zatoshis: 362501250000000
+Public + Shielded: 362484844157146
+Public UTXO Zatoshis: 338128207730126
+Sprout Zatoshis: 24356636427020
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 310000:
+Maximum Allowed Zatoshis: 375001250000000
+Public + Shielded: 374984844157053
+Public UTXO Zatoshis: 349948340472793
+Sprout Zatoshis: 25036503684260
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 320000:
+Maximum Allowed Zatoshis: 387501250000000
+Public + Shielded: 387484844156954
+Public UTXO Zatoshis: 361434677453844
+Sprout Zatoshis: 26050166703110
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 330000:
+Maximum Allowed Zatoshis: 400001250000000
+Public + Shielded: 399984844156825
+Public UTXO Zatoshis: 375389744714577
+Sprout Zatoshis: 24595099442248
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 340000:
+Maximum Allowed Zatoshis: 412501250000000
+Public + Shielded: 412484844156754
+Public UTXO Zatoshis: 388820102673519
+Sprout Zatoshis: 23664741483235
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 350000:
+Maximum Allowed Zatoshis: 425001250000000
+Public + Shielded: 424984844156737
+Public UTXO Zatoshis: 401227358862686
+Sprout Zatoshis: 23757485294051
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 360000:
+Maximum Allowed Zatoshis: 437501250000000
+Public + Shielded: 437484844156733
+Public UTXO Zatoshis: 411606953146609
+Sprout Zatoshis: 25877891010124
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 370000:
+Maximum Allowed Zatoshis: 450001250000000
+Public + Shielded: 449984844156695
+Public UTXO Zatoshis: 425666503797336
+Sprout Zatoshis: 24318340359359
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 380000:
+Maximum Allowed Zatoshis: 462501250000000
+Public + Shielded: 462484844156651
+Public UTXO Zatoshis: 428926894688655
+Sprout Zatoshis: 33557949467996
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 390000:
+Maximum Allowed Zatoshis: 475001250000000
+Public + Shielded: 474984844156609
+Public UTXO Zatoshis: 441984985623476
+Sprout Zatoshis: 32999858533133
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 400000:
+Maximum Allowed Zatoshis: 487501250000000
+Public + Shielded: 487484844156615
+Public UTXO Zatoshis: 455859988003622
+Sprout Zatoshis: 31624856152993
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 410000:
+Maximum Allowed Zatoshis: 500001250000000
+Public + Shielded: 499984844156601
+Public UTXO Zatoshis: 465422755302671
+Sprout Zatoshis: 34562088853930
+Sapling Zatoshis: 0
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 420000:
+Maximum Allowed Zatoshis: 512501250000000
+Public + Shielded: 512484844156536
+Public UTXO Zatoshis: 478443390795016
+Sprout Zatoshis: 32386497802559
+Sapling Zatoshis: 1654955558961
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 430000:
+Maximum Allowed Zatoshis: 525001250000000
+Public + Shielded: 524984844156454
+Public UTXO Zatoshis: 488730477815065
+Sprout Zatoshis: 33719202617003
+Sapling Zatoshis: 2535163724386
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 440000:
+Maximum Allowed Zatoshis: 537501250000000
+Public + Shielded: 537484844156352
+Public UTXO Zatoshis: 500892658425201
+Sprout Zatoshis: 33581805058717
+Sapling Zatoshis: 3010380672434
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 450000:
+Maximum Allowed Zatoshis: 550001250000000
+Public + Shielded: 549984844156212
+Public UTXO Zatoshis: 510356173050506
+Sprout Zatoshis: 36219176752913
+Sapling Zatoshis: 3409494352793
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 460000:
+Maximum Allowed Zatoshis: 562501250000000
+Public + Shielded: 562484844156030
+Public UTXO Zatoshis: 526793942088082
+Sprout Zatoshis: 31462453968547
+Sapling Zatoshis: 4228448099401
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 470000:
+Maximum Allowed Zatoshis: 575001250000000
+Public + Shielded: 574984844155898
+Public UTXO Zatoshis: 539108119230160
+Sprout Zatoshis: 30341871607008
+Sapling Zatoshis: 5534853318730
+All good! Everything checks out ok 👍
+Haven't reached tip of blockchain, continuing...
+At height 479827:
+Maximum Allowed Zatoshis: 587285000000000
+Public + Shielded: 587269844155807
+Public UTXO Zatoshis: 552368082693859
+Sprout Zatoshis: 25738780979868
+Sapling Zatoshis: 9162980482080
+All good! Everything checks out ok 👍
